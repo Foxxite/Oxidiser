@@ -1,0 +1,4 @@
+name: Oxidiser
+version: '1.0-SNAPSHOT'
+main: com.foxxite.oxidiser.Oxidiser
+api-version: '1.21'
